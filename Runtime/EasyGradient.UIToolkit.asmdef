@@ -1,0 +1,14 @@
+{
+    "name": "EasyGradient.UIToolkit",
+    "rootNamespace": "EasyGradient.UIToolkit",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

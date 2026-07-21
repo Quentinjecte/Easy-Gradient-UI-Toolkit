@@ -1,0 +1,21 @@
+{
+  "name": "com.easygradient.ui-toolkit",
+  "version": "1.0.0",
+  "displayName": "Easy Gradient UI Toolkit",
+  "description": "Runtime VisualElement (GradientElement) and ScriptableObject (GradientStyle) for rendering multi-stop linear or radial color gradients as procedurally generated meshes in Unity UI Toolkit, plus a custom inspector with a live preview.",
+  "unity": "6000.4",
+  "keywords": [
+    "ui toolkit",
+    "uielements",
+    "gradient",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Quentinjecte/Easy-Gradient-UI-Toolkit.git"
+  },
+  "author": {
+    "name": "Quentinjecte",
+    "url": "https://github.com/Quentinjecte"
+  }
+}
